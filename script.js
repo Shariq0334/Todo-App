@@ -21,7 +21,7 @@ function update (){
           <h4 class="card-title">${element[0]}</h4>
           <p class="card-text">${element[1]}</p>
           <button onclick="deleted(${index})"  id="delete" class="btn btn-primary">Delete</button>
-          <button class="edit" onclick="edit()"  id="delete" class="btn btn-primary">Update</button>
+        
         </div>
       </div>`
         
